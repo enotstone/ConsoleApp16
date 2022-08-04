@@ -11,6 +11,7 @@ namespace ConsoleApp16
     {
         static void Main()
         {
+            int I = 1;
         }
     }
 }
